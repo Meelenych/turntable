@@ -1,10 +1,10 @@
 <script setup>
-
+import Hero from '../components/Hero.vue'
 </script>
 
 <template>
   <main>
-    <h1>Discover</h1>
+    <Hero />
   </main>
 </template>
 

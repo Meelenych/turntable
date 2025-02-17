@@ -4,8 +4,10 @@
 
 <template>
   <main>
-    <h1>Discover</h1>
+    <h1>Songs you like</h1>
   </main>
 </template>
 
-<style></style>
+<style>
+
+</style>
